@@ -18,7 +18,7 @@ Estou procurando colaborar em projetos que me permitam aplicar e aprimorar minha
 
 ## Como chegar até mim
 
-- GitHub: isac03
+- GitHub: https://github.com/isac03
 - LinkedIn: https://www.linkedin.com/in/isac-correa-dos-santos-7714941a2
 
 ## Pronomes
